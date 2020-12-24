@@ -104,7 +104,7 @@ The people from IT technical backgrounds, worldwide, students, learners, experts
 
 ### Individual Profile Page
 
-![profile individual](https://user-images.githubusercontent.com/63305945/102266634-bb6df580-3f3e-11eb-94ee-fe4f567b47d7.png)
+![profile individual]()
 
 ### GitHub repos on Profile Page
 
