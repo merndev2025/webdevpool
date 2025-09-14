@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://mukeshr:soal@123@cluster0.gleq8.mongodb.net/webdevpool?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://mukeshr:soal@123@cluster0.melmd.mongodb.net/webdevpool?retryWrites=true&w=majority",
   "jwtToken": "thisisasecrettoken",
   "githubClientId": "73184dd9b43954c214ce",
   "githubSecret": "120627360faf6828c63ea55c527ecbeeee35f74a"
